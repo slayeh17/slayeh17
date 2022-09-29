@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **debakroy7@gmail.com**
 
-- ⚡ Fun fact **I like playing video games especially Tekken 7**
+- ⚡ Fun fact **I love playing video games and watching animes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
