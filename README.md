@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debak Roy</h1>
 <h3 align="center">A Computer Science student from India</h3>
 
-- 🌱 I’m currently learning **C++, HTML and CSS**
+- 🌱 I’m currently learning **C++, HTML, CSS and Python**
 
 - 📫 How to reach me **debakroy7@gmail.com**
 
