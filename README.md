@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **debakroy7@gmail.com**
 
-- ⚡ Fun fact **I love Vim**
+- ⚡ Fun fact: **I love Vim**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
