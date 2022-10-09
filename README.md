@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **debakroy7@gmail.com**
 
-- ⚡ Fun fact **I love playing video games and watching animes**
+- ⚡ Fun fact **I love Vim**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
