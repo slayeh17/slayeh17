@@ -17,7 +17,7 @@
 <p>
   <h3>Achievements</h3>
   <ul>
-  <li>Hacktoberfest 2022 <img src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg"  align="center" alt="Hacktoberfest 2022 logo" width="40" height="40"/></li>
+  <li><strong>Hacktoberfest 2022</strong> <img src="https://pbs.twimg.com/profile_images/1567906020831150081/oJ7mKaaj_400x400.jpg"  align="center" alt="Hacktoberfest 2022 logo" width="40" height="40"/></li>
   </ul>
 </p>
 
