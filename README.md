@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debak Roy. Plus Ultraaaa!!!</h1>
-<h3 align="center">A Computer Science student from India who is excited to learn stuff related to tech whenever possible.</h3>
+<h3 align="center">I'm a 2nd year Computer Science Engineering undergrad from India. </h3>
 
 <img src="https://user-images.githubusercontent.com/104914725/228506030-02f35720-202a-4f2a-b8f7-53e0233a1969.gif" width="150">
 
