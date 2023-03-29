@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Debak Roy. Plus Ultraaaa!!!</h1>
 <h3 align="center">A Computer Science student from India who is excited to learn stuff related to tech whenever possible.</h3>
 
+<img src="https://user-images.githubusercontent.com/104914725/228506030-02f35720-202a-4f2a-b8f7-53e0233a1969.gif" width="150">
+
 <h3 align="left">Connect with me...</h3>
 <p align="left">
 <a href="https://dev.to/slayeh17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="slayeh17" height="30" width="40" /></a>
@@ -22,3 +24,6 @@
 </p>
 
 <h3 align="center">Thank you for visiting my profile. Have a great day.🤓</h3>
+
+<img src="https://user-images.githubusercontent.com/104914725/228504152-b792b1b9-0e6f-4299-8062-57107cd02f55.gif" width="100">
+
