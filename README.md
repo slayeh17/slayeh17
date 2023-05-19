@@ -2,7 +2,7 @@
 ![myName](https://github.com/slayeh17/slayeh17/assets/104914725/7b8fc7ee-2c52-460d-a8cd-8b84b08a3af2)
 
 # About Me:
-- An Computer Science Engineering undergrad
+- A Computer Science Engineering undergrad
 - Love and enjoy creating websites
 - Currently focusing on web development
 - Looking forward to contributing to open source more
