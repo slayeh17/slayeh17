@@ -27,3 +27,5 @@
 2. [LinkedIn](https://www.linkedin.com/in/debak-roy-464827249/)
 3. [Hashnode](https://slayeh17debakroy.hashnode.dev/)
 
+# Resume:
+- https://drive.google.com/file/d/1GUFY2eaKC_oMbykEd-qwrrgJ9gmjJ6Fq/view?usp=drive_link
