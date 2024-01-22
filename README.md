@@ -5,7 +5,7 @@
 - A Computer Science Engineering undergrad
 - Love and enjoy creating websites
 - Currently focusing on web development
-- Looking forward to contributing to open source more
+- Very much into indie games
 
 # Languages, Technologies and Tools I'm Familiar With:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
