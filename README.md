@@ -42,6 +42,8 @@ position: fixed;
 inset:0;
 object-fit: cover;
 background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
 width: 130vw;
 opacity: 0.5;
 background: url('https://github.com/slayeh17/slayeh17/assets/104914725/43c5d025-b9ca-4559-bc20-eb56813b3bb2');
