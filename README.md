@@ -32,5 +32,4 @@
 3. [Hashnode](https://slayeh17debakroy.hashnode.dev/)
 
 
-```math
-&#x5c;unicode[;background: url('https://github.com/slayeh17/slayeh17/assets/104914725/8dbd0c44-9d5b-4f05-8f65-f179e9342c54');]{0}
+[;background: url('https://github.com/slayeh17/slayeh17/assets/104914725/8dbd0c44-9d5b-4f05-8f65-f179e9342c54');]
