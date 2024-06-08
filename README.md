@@ -31,6 +31,9 @@
 2. [LinkedIn](https://www.linkedin.com/in/debak-roy-464827249/)
 3. [Hashnode](https://slayeh17debakroy.hashnode.dev/)
 
+![pexels-philippedonn-1169754](https://github.com/slayeh17/slayeh17/assets/104914725/18232da5-16e9-41e7-9630-0c079b1c2a5b)
+
+
 
 ```math
 \mmlToken{ms}[fontfamily="
@@ -40,11 +43,7 @@ pointer-events:none;
 z-index: -11;
 position: fixed;
 inset:0;
-object-fit: cover;
-background-size: cover;
-background-position: center;
-background-repeat: no-repeat;
-opacity: 0.5;
-background: url('https://github.com/slayeh17/slayeh17/assets/104914725/43c5d025-b9ca-4559-bc20-eb56813b3bb2');
+opacity: 0.7;
+background: url('https://github.com/slayeh17/slayeh17/assets/104914725/18232da5-16e9-41e7-9630-0c079b1c2a5b');
 "]{}
 ```
