@@ -32,4 +32,4 @@
 3. [Hashnode](https://slayeh17debakroy.hashnode.dev/)
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/slayeh17/slayeh17/assets/104914725/69dd2a57-f8e0-4df3-986a-f97f0df83515');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; background: url('https://github.com/slayeh17/slayeh17/assets/104914725/69dd2a57-f8e0-4df3-986a-f97f0df83515');]{x0000}$}
