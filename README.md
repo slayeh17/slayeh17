@@ -36,7 +36,7 @@
 madebycubiquwu;
 color: transparent;
 pointer-events:none;
-z-index: 1;
+z-index: -1;
 position: fixed;
 inset:0;
 opacity: 1.0;
