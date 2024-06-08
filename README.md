@@ -31,10 +31,19 @@
 2. [LinkedIn](https://www.linkedin.com/in/debak-roy-464827249/)
 3. [Hashnode](https://slayeh17debakroy.hashnode.dev/)
 
+
 ```math
 \mmlToken{ms}[fontfamily="
-abracadabra;
-z-index: -20
-background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fanime-landscape&psig=AOvVaw3-UPFfgkkxZT6QktkZhNh4&ust=1717940483301000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjSqpSRzIYDFQAAAAAdAAAAABAE');
+madebycubiquwu;
+color: transparent;
+pointer-events:none;
+z-index: -11;
+position: fixed;
+inset:0;
+object-fit: cover;
+background-size: cover;
+width: 130vw;
+opacity: 0.5;
+background: url('https://github.com/slayeh17/slayeh17/assets/104914725/43c5d025-b9ca-4559-bc20-eb56813b3bb2');
 "]{}
 ```
