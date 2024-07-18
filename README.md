@@ -3,9 +3,11 @@
 
 # About Me:
 - A Computer Science Engineering undergrad
-- Love and enjoy creating websites
-- Currently focusing on web development
-- Very much into indie games
+- I like reading and making low-level stuff because it's less complicated than web development
+- Currently making a cool text editor
+- I love playing video games (PC)
+- Huge FromSoftware games nerd, especially Bloodborne
+- Cheers 🥂
 
 # Languages, Technologies and Tools I'm Familiar With:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -25,6 +27,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
 # Socials:
 1. [Twitter](https://twitter.com/RoyDebak)
