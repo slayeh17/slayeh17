@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Untitled design (2)](https://github.com/user-attachments/assets/7d3164a4-05bd-4990-a85b-ad8ef311abd4)
+![Untitled design (2) (1)](https://github.com/user-attachments/assets/fd046c75-7bb8-4925-9172-b2cbb7a6cda8)
 
 # About Me:
 - A Computer Science Engineering undergrad
