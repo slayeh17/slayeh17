@@ -1,12 +1,9 @@
 <!-- Banner -->
-![myName](https://github.com/slayeh17/slayeh17/assets/104914725/7b8fc7ee-2c52-460d-a8cd-8b84b08a3af2)
+![Untitled design (2)](https://github.com/user-attachments/assets/7d3164a4-05bd-4990-a85b-ad8ef311abd4)
 
 # About Me:
 - A Computer Science Engineering undergrad
-- I like reading and making low-level stuff because it's less complicated than web development
-- Currently making a cool text editor
-- I love playing video games (PC)
-- Huge FromSoftware games nerd, especially Bloodborne
+- I like video games 
 - Cheers 🥂
 
 # Languages, Technologies and Tools I'm Familiar With:
