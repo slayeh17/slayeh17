@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Untitled design (2) (1)](https://github.com/user-attachments/assets/fd046c75-7bb8-4925-9172-b2cbb7a6cda8)
+### Hello adventurer, I am Debak Roy 👋.
 
 # About Me:
 - A Computer Science Engineering undergrad
